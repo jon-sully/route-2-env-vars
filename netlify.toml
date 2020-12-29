@@ -2,3 +2,6 @@
   command = "jekyll build"
   publish = "public"
   functions = "serverless"
+
+[[plugins]]
+  package = 'netlify-plugin-inline-functions-env'
