@@ -1,0 +1,4 @@
+[build]
+  command = "jekyll build"
+  publish = "public"
+  functions = "serverless"

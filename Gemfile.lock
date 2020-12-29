@@ -135,6 +135,7 @@ DEPENDENCIES
   autoprefixer-rails
   bundler
   dev-portfolio-blog!
+  jekyll (~> 3.8)
   jekyll-assets
   jekyll-environment-variables (~> 1.0)
   jekyll-feed

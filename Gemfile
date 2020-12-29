@@ -16,3 +16,5 @@ gemspec
 
 
 gem "jekyll-environment-variables", "~> 1.0"
+
+gem "jekyll", "~> 3.8"
